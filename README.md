@@ -1,6 +1,6 @@
 # JLNavigation
 
-<img alt="JLNavigation Logo" src="" width="500"/> 
+<img alt="JLNavigation Logo" src="https://github.com/dasilvans/Repository-Logos/blob/main/JLNavigation.png" width="500"/> 
 
 
 JLNavigation is an elegant iOS library which provides routing features to your applications based on the Coordinator pattern. JLNavigation helps make your navigation syntactically compact and clear. 
@@ -18,7 +18,7 @@ In your Package.swift:
 let package = Package(
   name: "Example",
   dependencies: [
-    .package(url: "https://github.com/JLNavigation.git")
+    .package(url: "https://github.com/dasilvans/JLNavigation")
   ],
   targets: [
     .target(name: "JLNavigation", dependencies: [])
